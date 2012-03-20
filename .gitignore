@@ -1,3 +1,5 @@
 .DS_Store
 *.swp
 *.pyc
+dist
+lib/play-wsimport.jar
