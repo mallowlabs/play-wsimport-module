@@ -1,0 +1,4 @@
+self: play -> wsimport 0.1
+
+require:
+    - play
